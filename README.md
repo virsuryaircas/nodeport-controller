@@ -19,7 +19,7 @@ The NP controller:
 2. Populates it with details:
    - NAME
    - NODE-IP:PORT
-   - ClusterIP
+   - CLUSTER IP
    - PORT(s)
    - AGE
 3. Updats the np if the nodeport number updated.
