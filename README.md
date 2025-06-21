@@ -50,6 +50,8 @@ helloworld   http://192.168.0.18:31770   10.43.120.122   80/TCP    1m
 ```
 > **NOTE:** Ensure the `CRD` is installed before running the controller.
 
+[![asciicast](https://asciinema.org/a/723976.svg)](https://asciinema.org/a/723976)
+
 ## 📝 Docker Image Changelog
 
 **Docker Image**: [virsuryaircas/nodeport-controller](https://hub.docker.com/r/virsuryaircas/nodeport-controller)
