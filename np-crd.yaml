@@ -32,7 +32,7 @@ spec:
               age:
                 type: string
     additionalPrinterColumns:
-    - name: NODE-IP
+    - name: NODE-IP:PORT
       type: string
       description: Clickable URL for Node IP and Port
       jsonPath: .status.nodeIP
